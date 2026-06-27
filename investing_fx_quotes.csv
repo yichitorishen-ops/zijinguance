@@ -1,0 +1,11 @@
+﻿pair,symbol,sell_price,buy_price,change_percent,time,note,source_url,fetched_at
+美元/人民币,USD/CNY,6.757,6.7571,-0.08%,17:47:01,,https://cn.investing.com/currencies/usd-cny,2026-06-15T18:44:28+08:00
+人民币/日元,CNY/JPY,23.6239,23.6623,-0.20%,18:43:45,,https://cn.investing.com/currencies/cny-jpy,2026-06-15T18:44:31+08:00
+美元/日元,USD/JPY,160.09,160.1,-0.09%,18:44:29,,https://cn.investing.com/currencies/usd-jpy,2026-06-15T18:44:32+08:00
+日元/俄罗斯卢布,JPY/RUB,0.4525,0.4527,-99.00%,18:44:33,,https://cn.investing.com/currencies/jpy-rub,2026-06-15T18:44:34+08:00
+人民币/俄罗斯卢布,CNY/RUB,10.7221,10.725,+0.04%,18:44:33,,https://cn.investing.com/currencies/cny-rub,2026-06-15T18:44:35+08:00
+美元/俄罗斯卢布,USD/RUB,72.45,72.47,-0.05%,18:40:00,,https://cn.investing.com/currencies/usd-rub,2026-06-15T18:44:37+08:00
+日元/欧元,JPY/EUR,0.53784,0.5379,-0.31%,18:44:33,价格已乘以100,https://cn.investing.com/currencies/jpy-eur,2026-06-15T18:44:38+08:00
+俄罗斯卢布/欧元,RUB/EUR,0.01188,0.01189,-0.30%,18:44:33,,https://cn.investing.com/currencies/rub-eur,2026-06-15T18:44:39+08:00
+人民币/欧元,CNY/EUR,0.1274,0.1275,-0.28%,18:44:33,,https://cn.investing.com/currencies/cny-eur,2026-06-15T18:44:40+08:00
+美元/欧元,USD/EUR,0.8611,0.8612,-0.40%,18:44:33,,https://cn.investing.com/currencies/usd-eur,2026-06-15T18:44:42+08:00
